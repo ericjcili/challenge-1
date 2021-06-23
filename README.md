@@ -1,1 +1,2 @@
 # Code Refactor Starter Code
+This webpage is from a company called Horiseon who hired me to clean up the webpage with semantic HTML elements, accessible alt attributes to the site images, and restructuring the order of the content to be more sequential/comprehensible.
